@@ -2,4 +2,4 @@
 
 
 ## Buraya eklemeler yaptim
-- Kamil yaramaz
+- Kamil yaramaz degil
